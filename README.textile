@@ -1,0 +1,44 @@
+h1. Mockup to HTML conversion routines
+
+h2. What it is
+
+A set of files built around the file mockup.rb.
+
+Usage: mockup [ options ]
+    -p, --pasteboard                 Use pasteboard rather than file
+    -n, --name [basename]            Basename for files created by exporter
+    -s, --source [filename]          File to use rather than pasteboard
+    -h, --help                       You're looking at it
+
+Allows you to convert from Balsamiq Mockup's XML file to HTML, css, and Javascript.
+
+h2. "But, why?" you ask
+
+I needed something fun to do as a general learning project for Ruby, BDD, rspec, autotest, etc.  I think Mockups is awesome, so though parsing the XML files would be a good exercise.  Plus, I can imagine some cases where being able to go straight to HTML would make Mockups even more useful.
+
+This is unlikely to be worked on again, but was fun to write.
+
+h2. License
+
+Copyright (c) 2008-2009 Cory Ondrejka
+
+Permission is hereby granted, free of charge, to any person
+obtaining a copy of this software and associated documentation
+files (the "Software"), to deal in the Software without
+restriction, including without limitation the rights to use,
+copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the
+Software is furnished to do so, subject to the following
+conditions:
+
+The above copyright notice and this permission notice shall be
+included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES
+OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND
+NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT
+HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,
+WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
+FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR
+OTHER DEALINGS IN THE SOFTWARE.
