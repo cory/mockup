@@ -2,7 +2,7 @@ h1. Mockup to HTML conversion routines
 
 h2. What it is
 
-A set of files built around the file mockup.rb.
+A set of routines built around the file mockup.rb.
 
 Usage: mockup [ options ]
     -p, --pasteboard                 Use pasteboard rather than file
