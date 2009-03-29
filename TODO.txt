@@ -1,0 +1,3 @@
+Unlikely to touch this project again.  However it could use:
+* change javascript creation to use prototype, etc.  The charts use a tiny bit of it now.
+* be able to link multiple mockups to make UIs that can mockup flow through a UI

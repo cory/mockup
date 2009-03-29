@@ -1,3 +1,7 @@
 === Version 0.0.1 / 2009-01-04
 
 * Initial creation of history.txt file
+
+=== Version 0.0.1 / 2009-03-29
+
+* Checkin to public Github repository
