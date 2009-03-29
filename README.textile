@@ -10,7 +10,7 @@ Usage: mockup [ options ]
     -s, --source [filename]          File to use rather than pasteboard
     -h, --help                       You're looking at it
 
-Allows you to convert from Balsamiq Mockup's XML file to HTML, css, and Javascript.
+Allows you to convert from "Balsamiq Mockup's":http://www.balsamiq.com/products/mockups XML file to HTML, css, and Javascript.
 
 h2. "But, why?" you ask
 
